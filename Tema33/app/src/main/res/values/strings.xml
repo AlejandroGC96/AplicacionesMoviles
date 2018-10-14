@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tema3.3</string>
+    <string name="textoboton1">Entrar</string>
+    <string name="textoboton2">Acerca de</string>
+    <string name="textoboton3">Salir</string>
+    <string name="acercade">Realizado por los Power Rangers</string>
+    <string name="textoejemplo">Es un texto de ejemplo para Antonio.</string>
+</resources>
